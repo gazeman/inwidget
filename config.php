@@ -3,10 +3,10 @@
 $CONFIG = array(
 
 	// Instagram login
-	'LOGIN' => 'fotokto_ru',
+	'LOGIN' => 'almatykamin',
 
 	// CLIEN_ID of Instagram application
-	'CLIENT_ID' => 'bd15adcf901046049a5cc89fed0e2e23',
+	'CLIENT_ID' => '66c330339cae4874ae0f4187e72416a6',
 
 	// Get pictures from WORLDWIDE by tag name. 
 	// Use this options only if you want show pictures of other users. 
